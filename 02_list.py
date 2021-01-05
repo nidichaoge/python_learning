@@ -75,5 +75,3 @@ for dimension in dimensions:
 # 报错
 dimensions[0] = 300
 print(dimensions[0])
-
-

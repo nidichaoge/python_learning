@@ -14,3 +14,7 @@ class Dog:
     def sit(self):
         """sit"""
         print(self.name.title() + " is now sitting.")
+
+    def update_name(self, name):
+        self.name = name
+

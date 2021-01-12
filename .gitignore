@@ -1,0 +1,8 @@
+*.pyc
+*.vscode
+*.confc
+*sessionId.txt
+*.DS_Store
+*.xls
+venv/
+.idea/

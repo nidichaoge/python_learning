@@ -6,3 +6,4 @@
 *.xls
 venv/
 .idea/
+__pycache__
